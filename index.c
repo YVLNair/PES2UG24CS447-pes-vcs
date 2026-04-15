@@ -14,7 +14,7 @@
 //
 // PROVIDED functions: index_find, index_remove, index_status
 // TODO functions:     index_load, index_save, index_add
-//phase 3 step 2
+//phase 3 step 3
 #include "index.h"
 #include "pes.h"
 #include "tree.h"
