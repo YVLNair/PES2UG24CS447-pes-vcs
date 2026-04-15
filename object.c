@@ -7,7 +7,7 @@
 //
 // PROVIDED functions: compute_hash, object_path, object_exists, hash_to_hex, hex_to_hash
 // TODO functions:     object_write, object_read
-// phase 1 step  5
+// phase 1 step  1
 #include "pes.h"
 #include <stdio.h>
 #include <stdlib.h>
