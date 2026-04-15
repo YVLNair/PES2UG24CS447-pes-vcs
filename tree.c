@@ -8,7 +8,7 @@
 //
 // Example single entry (conceptual):
 //   "100644 hello.txt\0" followed by 32 raw bytes of SHA-256
-//phase 2 step 4
+//phase 2 step 5
 
 #include "tree.h"
 #include <stdio.h>
